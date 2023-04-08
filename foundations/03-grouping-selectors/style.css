@@ -1,0 +1,13 @@
+* {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.left {
+    background-color: lightcoral;
+}
+
+.right {
+    padding: auto;
+    font-weight: bolder;
+}

@@ -1,0 +1,13 @@
+.brutalism {
+    font-family:'Courier New', Courier, monospace;
+    font-stretch: semi-expanded;
+}
+
+.brutalism .small-caps {
+    font-variant: small-caps;
+}
+
+#cute {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
